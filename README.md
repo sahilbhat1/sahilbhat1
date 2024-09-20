@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Bhat</h1>
 <h3 align="center">A passionate frontend developer and i am also interested on cybersecurity</h3>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **java*
 
 - 💬 Ask me about **JS, python, NodeJS, Linux,React**
 
